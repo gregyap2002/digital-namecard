@@ -3,12 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Yap;Gregory;;;
 FN: Gregory Yap
-ORG:Sunpower Group Ltd.;
-TITLE:IR Representative (Singapore)
-EMAIL;type=INTERNET;type=WORK;type=pref:gregoryyap@sunpowergroup.com.cn
-TEL;type=WORK;type=VOICE:+65 9889 5054
-item1.ADR;type=WORK;type=pref:;;2111 Chengxin Avenue\, High-tech Industrial Park\nJiangning District\, Nanjing\, Jiangsu;;;211112;PRC
+ORG:Personal
+TITLE:
+EMAIL;type=INTERNET;type=WORK;type=pref:gregy2002@gmail.com
+TEL;type=WORK;type=VOICE:+65 9326 2056
+item1.ADR;type=WORK;type=pref:;;
 item1.X-ABADR:sg
-item2.URL;type=pref:sunpower.listedcompany.com
+item2.URL;type=pref:
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
