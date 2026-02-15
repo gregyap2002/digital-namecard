@@ -3,10 +3,10 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Yap;Gregory;;;
 FN: Gregory Yap
-ORG:Personal
-TITLE:
-EMAIL;type=INTERNET;type=WORK;type=pref:gregy2002@gmail.com
-TEL;type=WORK;type=VOICE:+65 9326 2056
+ORG:
+TITLE:Personal Investor
+EMAIL;type=INTERNET;type=PERSONAL;type=pref:gregy2002@gmail.com
+TEL;type=PERSONAL;type=VOICE:+65 9326 2056
 item1.ADR;type=WORK;type=pref:;;
 item1.X-ABADR:sg
 item2.URL;type=pref:
